@@ -7,3 +7,4 @@ pandas
 pydata-sphinx-theme
 breathe
 sphinx-panels
+numpy>=1.22.0 # not directly required, pinned by Snyk to avoid a vulnerability
